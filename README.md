@@ -9,7 +9,7 @@
 
 * 🔭 Currently working as a **Senior Software Engineer**
 * 🌱 Exploring advanced backend & system design
-* 💡 Strong in **React, Node.js, Express, MongoDB, JavaScript, Next JS**
+* 💡 Strong in **React.js, Node.js, Express.js, MongoDB, JavaScript, Next JS**
 * ⚡ Love solving real-world problems with clean UI & efficient APIs
 
 ---
