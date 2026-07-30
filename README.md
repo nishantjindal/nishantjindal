@@ -46,7 +46,7 @@ Node.js | Express.js
 MongoDB | PostgreSQL | Oracle
 
 **Tools & Others:**
-Git | REST APIs | JWT Auth | AWS | Jenkins | CI/CD | Docker
+Git | REST APIs | JWT Auth | AWS | Jenkins | CI/CD | Docker | AWS Services
 
 
 
